@@ -1,0 +1,38 @@
+.NavigationBar{
+border: solid 1px rgba(39, 40, 44, 0.2);
+height: 71px;
+}
+
+.NavigationContainer{
+  margin: 5px 0 0 24px;
+}
+
+#toolbox{
+  margin: 4px 24px 4px 0;
+  letter-spacing: normal;
+}
+
+#overview {
+  margin: 4px 24px 4px 0;
+  font-size: 15px;
+  letter-spacing: normal;
+  color: #f76707;
+  font-weight: normal;
+}
+#toolBoxApp{
+  margin: 4px 24px 4px 0;
+  font-size: 15px;
+  letter-spacing: normal;
+  color: rgba(39, 40, 44, 0.7);
+  font-weight: normal;
+}
+
+#buyNowBtn{
+  width: 134px;
+  height: 32px;
+  padding: 4px 19px 4px 18px;
+  border-radius: 25px;
+  border: solid 1px rgba(39, 40, 44, 0.4);
+  margin: 4px 24px 4px 0;
+  font-size: 15px;
+}
